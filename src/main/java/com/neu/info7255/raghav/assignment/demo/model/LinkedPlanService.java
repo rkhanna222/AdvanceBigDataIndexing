@@ -14,7 +14,7 @@ public class LinkedPlanService implements Serializable {
 
     LinkedService linkedService;
 
-    PlanCostShares planCostShares;
+    PlanCostShares planserviceCostShares;
 
     private String _org;
 
